@@ -10,8 +10,8 @@
 
 ### 📹 教學影片
 
-> 如何取得 API Key 並部署你自己的版本：
-> *(請到 Releases 頁面下載觀看)*
+> **[▶ 下載觀看：如何取得 API Key 並部署](https://github.com/ImperialManta/ai-agent-hub-free/releases/tag/v1.0)**
+> 內容：OpenRouter 免費 Key 註冊 + Cloudflare Pages 部署全流程
 
 ---
 
