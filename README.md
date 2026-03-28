@@ -10,7 +10,8 @@ A free, open-source, serverless AI Agent hub integrating multiple free LLM provi
 
 ### 📹 Setup Guide (Video)
 
-> **[▶ Download: How to get API keys & deploy](https://github.com/ImperialManta/ai-agent-hub-free/releases/tag/v1.0)**
+[![Watch the setup guide](https://img.youtube.com/vi/KPVFO_fx7s8/maxresdefault.jpg)](https://youtu.be/KPVFO_fx7s8)
+
 > Covers: OpenRouter free key signup + Cloudflare Pages deployment
 
 ---
